@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098960792422",
+    "project_id": "igt-epass",
+    "storage_bucket": "igt-epass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098960792422:android:f8593d12198e428c61b6a7",
+        "android_client_info": {
+          "package_name": "biz.igrowtech.epass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Jaz2TuoAe1n05taXW5pLoLQvXPmrA1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

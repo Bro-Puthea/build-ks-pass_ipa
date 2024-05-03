@@ -1,0 +1,5 @@
+{
+  "zh": [
+    "new_pw_is_required"
+  ]
+}
